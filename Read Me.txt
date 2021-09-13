@@ -1,0 +1,7 @@
+the things that I added were pachinco pegs to make the drops more random, and the kill plane has collision,
+so the apples bounce back up rather than just getting destroyed.
+
+https://sadness-lubricant.itch.io/unityapples
+here is the link to play the game, the password is 1
+
+I also added a persistent high score, but I don't know how well that works with html, so oh well.
